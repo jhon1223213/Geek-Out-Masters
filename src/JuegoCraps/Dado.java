@@ -24,4 +24,3 @@ public class Dado {
         return cara;
     }
 }
-//git commit -m "añado clase dado"
